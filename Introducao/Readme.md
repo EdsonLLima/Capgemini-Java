@@ -11,8 +11,8 @@
 - Aula 07 - Variáveis[ok]
 - Aula 08 - Literais[ok]
 - Aula 09 - Aritméticos[ok]
-- Aula 10 - Estruturas Condicionais[]
-- Aula 11 - Laços de repetição[]
+- Aula 10 - Estruturas Condicionais[ok]
+- Aula 11 - Laços de repetição[ok]
 - Aula 12 - Entrada de dados gráficos
 - Aula 13 - Orientações a Objetos
 
