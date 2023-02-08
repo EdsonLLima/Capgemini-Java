@@ -14,7 +14,7 @@
 - Aula 10 - Estruturas Condicionais[ok]
 - Aula 11 - Laços de repetição[ok]
 - Aula 12 - Entrada de dados gráficos[ok]
-- Aula 13 - Orientações a Objetos
+- Aula 13 - Orientações a Objetos[ok]
 
 
 ## A empresa que criou o java eem 1982 foi a sun microsystem.
