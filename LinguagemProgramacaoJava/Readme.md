@@ -204,6 +204,13 @@ Uma coleção (collection) é um objeto que serve para agrupar muitos elementos 
 precisão ser Objetos, pode ter coleções homogêneas e heterogêneas, normalmente utilizamos coleções heterogêneas de 
 um tipo especifico.
 
+-> ArrayList não é um Array: 
+Um ArrayList é uma implementação da interface List.
+
+Um Array é um vetor de objetos ou tipo primitivos, possui um tamanho fixo informado no momento em que é inicializado.
+
+
+
 ![](C:/Users/FLAVILES/AppData/Local/Temp/java-collection-framework-hierarchy.webp)
 
 ## Hierarquia da JCF
