@@ -5,7 +5,7 @@
 - Aula 03 - Construtores[ok]
 - Aula 04 - Enumeradores[ok]
 - Aula 05 - Modificadores de acesso[ok]
-- Aula 06 - Matrizes[]
+- Aula 06 - Matrizes[ok]
 - Aula 07 - Collections[]
 - Aula 08 - Tópicos avançados[]
 - Aula 09 - Genéricos[]
