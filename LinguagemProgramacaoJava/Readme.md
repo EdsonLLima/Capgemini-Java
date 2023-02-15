@@ -6,7 +6,7 @@
 - Aula 04 - Enumeradores[ok]
 - Aula 05 - Modificadores de acesso[ok]
 - Aula 06 - Matrizes[ok]
-- Aula 07 - Collections[]
+- Aula 07 - Collections[ok]
 - Aula 08 - Tópicos avançados[]
 - Aula 09 - Genéricos[]
 - Aula 10 - Anottations[]
