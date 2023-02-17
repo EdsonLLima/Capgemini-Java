@@ -7,8 +7,8 @@
 - Aula 05 - Modificadores de acesso[ok]
 - Aula 06 - Matrizes[ok]
 - Aula 07 - Collections[ok]
-- Aula 08 - Tópicos avançados[]
-- Aula 09 - Genéricos[]
+- Aula 08 - Tópicos avançados[ok]
+- Aula 09 - Genéricos[ok]
 - Aula 10 - Anottations[]
 - Aula 11 - Threads[]
 - Aula 12 - Laços[]
@@ -211,13 +211,12 @@ Um Array é um vetor de objetos ou tipo primitivos, possui um tamanho fixo infor
 
 
 
-![](C:/Users/FLAVILES/AppData/Local/Temp/java-collection-framework-hierarchy.webp)
+
 
 ## Hierarquia da JCF
 
 Collectin é um framework , a hierarquia podemos ver abaixo:
 
-![](C:/Users/FLAVILES/AppData/Local/Temp/images.jpg)
 
 Todas essas interfaces e classes, provém métodos de inserção, deleção, busca, ordenação, manipulação de elementos.
 Lembrando também que algumas estruturas de dados permitem apenas objetos únicos, por exemplo Sets, enquanto outras 
@@ -277,7 +276,7 @@ a este, é aquele.
 
 ## Tópicos Avançados
 
-## Classes Wrappers
+### Classes Wrappers
 
 Classes Wrapper possuem métodos publicos disponíveis na subclasse Object.
 
@@ -302,7 +301,6 @@ passados em um método (porque os tipos primitivos são passados por valor).
 e não tipos primitivos.
 - Um objeto é necessário para dar suporte à sincronização em multithreading.
 
-![](C:/Users/FLAVILES/AppData/Local/Temp/print.png)
 
 
 Vantagens de usar Tipos Primitivos
@@ -337,7 +335,7 @@ long, Double para double, etc.
 ## Generics
 
 Generics é uma forma de tipar uma classe e reutilizar esse tipo várias vezes.Isso evita reescrita, e também reduz o 
-uso de cast para fazer conversão de dados com fequencia.
+uso de cast para fazer conversão de dados com frequência.
 
 Os genéricos são um recurso de programação genérica que foi incluída na linguagem de programação Java em 2004 na 
 versão J2SE 5.0. Eles foram projetados para estender o sistema de tipos do Java para permitir que "um tipo ou método
