@@ -9,7 +9,7 @@
 - Aula 07 - Collections[ok]
 - Aula 08 - Tópicos avançados[ok]
 - Aula 09 - Genéricos[ok]
-- Aula 10 - Anottations[]
+- Aula 10 - Anottations[ok]
 - Aula 11 - Threads[]
 - Aula 12 - Laços[]
 - Aula 13 - Trabalhando com dados[]
@@ -366,7 +366,7 @@ Uso de anottations
 - IDE
 - Estrutura de teste, por exemplo JUnit(ferramenta de teste unitário)
 - Recipient IoC , por exemplo , como Spring
-- Serialização, por exemplo , XML]
+- Serialização, por exemplo , XML
 - Programação Orientada a aspectos (AOP) , por exemplo, Spring AOP
 - Servidores de aplicativos, por exemplo. conteiner EJB, serviço da web;
 - Mapeamento objeto-relacional(ORM) , por exemplo, Hibernate, JPA
